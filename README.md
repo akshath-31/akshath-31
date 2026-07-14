@@ -1,21 +1,80 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Scalable web applications, automation tools, and AI-driven projects<br><br>👯 I'm looking to collaborate on<br>Open-source projects, competitive hackathons, and real-world software solutions<br><br>🤝 I'm looking for help with<br>System design, performance optimization, and production-level deployments<br><br>🌱 I'm currently learning<br>Data Structures & Algorithms, Cloud Infrastructure, and Machine Learning<br><br>💬 Ask me about<br>Python, Full-stack development, REST APIs, Git, and deployment pipelines<br><br>⚡ Fun fact<br>I treat debugging like a sport – no bug survives 🐛⚔️<br>Python, Web Development, Git/GitHub, and Hackathons<br><br>⚡ Fun fact<br>I'm a cricketer who codes between matches 🏏💻
+<h1 align="center">Hi 👋, I'm Akshath Senthilkumar</h1>
+<h3 align="center">Computer Science Student | Full-Stack Developer | Data & AI Enthusiast</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshathsenthilkumar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="https://github.com/akshath-31" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35"/>
+  </a>
+  <a href="https://akshathsenthilkumar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="28"/>
+  </a>
+  <a href="mailto:s.akshath31@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="35"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshath.31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshathsenthilkumar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sherrif-Aks001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.akshath31@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/akshath-31/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=netlify&logoColor=white)](https://akshathsenthilkumar.netlify.app/)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshath-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshath-31&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshath-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshath-31&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="Assets/output.gif" alt="profile animation" width="380"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshath-31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 B.Tech Computer Science Engineering (Data Science) @ SRM Institute of Science and Technology, Chennai — Class of 2027
+- 💻 Currently building full-stack products spanning React/Node/FastAPI, and exploring applied AI with LLM integrations (Gemini, RAG pipelines)
+- 🧪 Recently worked as a Product Developer Intern @ Spinwisely LLC, building backend systems for a multi-tenant SaaS platform for textile mills
+- 🏆 3rd place nationally at Fintech-A-Ton, NIT Trichy — led a team of 5 to build a working AI product in 24 hours
+- 🌱 Currently sharpening data structures & algorithms, system design fundamentals, and exploring agentic AI workflows
+- 💬 Ask me about: full-stack architecture, RAG pipelines, ML pipelines (time-series/TFT), or building fast with FastAPI + React
+- 📫 Reach me: s.akshath31@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,html,css" />
+</p>
+
+**Frontend & Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi" />
+</p>
+
+**Databases**
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+</p>
+
+**Cloud, Tools & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
+</p>
+
+**AI/ML**
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+<img src="https://img.shields.io/badge/LLMs-Gemini%20%7C%20RAG-8A2BE2?style=flat-square" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshath-31&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshath-31&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshath-31&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+<p align="center"><i>Building things, one repo at a time 🚀</i></p>

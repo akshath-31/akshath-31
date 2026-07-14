@@ -64,6 +64,17 @@
 
 ---
 
+### `// STACK`
+
+| Domain | Tools |
+|---|---|
+| ![Full-Stack](https://img.shields.io/badge/FULL--STACK-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB) | React · TypeScript · Node.js · Express.js · FastAPI |
+| ![Backend & DB](https://img.shields.io/badge/BACKEND%20%2F%20DB-1a1b27?style=for-the-badge&logo=postgresql&logoColor=4169E1) | PostgreSQL · MongoDB · Supabase · REST APIs |
+| ![AI / ML](https://img.shields.io/badge/AI%20%2F%20ML-1a1b27?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) | PyTorch · scikit-learn · Gemini · RAG Pipelines |
+| ![Tooling](https://img.shields.io/badge/TOOLING-1a1b27?style=for-the-badge&logo=git&logoColor=F05032) | Git · GitHub · Docker · Vercel · Postman |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">

@@ -1,0 +1,43 @@
+<svg width="470" height="425" viewBox="0 0 470 425" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="469" height="424" rx="12" fill="#1a1b27" stroke="#2e2f3e"/>
+  <text x="30" y="40" fill="#c0caf5" font-size="18" font-weight="600" font-family="Segoe UI, sans-serif">GitHub Stats</text>
+
+  <text x="30" y="90" fill="#7aa2f7" font-size="26" font-weight="700" font-family="Segoe UI, sans-serif">338</text>
+  <text x="30" y="112" fill="#565f89" font-size="12" font-family="Segoe UI, sans-serif">Total Contributions</text>
+
+  <text x="180" y="90" fill="#7aa2f7" font-size="26" font-weight="700" font-family="Segoe UI, sans-serif">5</text>
+  <text x="180" y="112" fill="#565f89" font-size="12" font-family="Segoe UI, sans-serif">Current Streak</text>
+
+  <text x="330" y="90" fill="#7aa2f7" font-size="26" font-weight="700" font-family="Segoe UI, sans-serif">5</text>
+  <text x="330" y="112" fill="#565f89" font-size="12" font-family="Segoe UI, sans-serif">Longest Streak</text>
+
+  <line x1="30" y1="140" x2="440" y2="140" stroke="#2e2f3e" stroke-width="1"/>
+
+  <text x="30" y="170" fill="#c0caf5" font-size="15" font-weight="600" font-family="Segoe UI, sans-serif">Top Languages</text>
+  
+        <text x="30" y="235" fill="#c0caf5" font-size="12" font-family="Segoe UI, sans-serif">HTML</text>
+        <text x="440" y="235" fill="#565f89" font-size="12" font-family="Segoe UI, sans-serif" text-anchor="end">33.2%</text>
+        <rect x="30" y="243" width="410" height="6" rx="3" fill="#292a3a"/>
+        <rect x="30" y="243" width="99" height="6" rx="3" fill="#e34c26"/>
+        
+        <text x="30" y="269" fill="#c0caf5" font-size="12" font-family="Segoe UI, sans-serif">TypeScript</text>
+        <text x="440" y="269" fill="#565f89" font-size="12" font-family="Segoe UI, sans-serif" text-anchor="end">24.6%</text>
+        <rect x="30" y="277" width="410" height="6" rx="3" fill="#292a3a"/>
+        <rect x="30" y="277" width="73" height="6" rx="3" fill="#3178c6"/>
+        
+        <text x="30" y="303" fill="#c0caf5" font-size="12" font-family="Segoe UI, sans-serif">Jupyter Notebook</text>
+        <text x="440" y="303" fill="#565f89" font-size="12" font-family="Segoe UI, sans-serif" text-anchor="end">23.3%</text>
+        <rect x="30" y="311" width="410" height="6" rx="3" fill="#292a3a"/>
+        <rect x="30" y="311" width="69" height="6" rx="3" fill="#DA5B0B"/>
+        
+        <text x="30" y="337" fill="#c0caf5" font-size="12" font-family="Segoe UI, sans-serif">JavaScript</text>
+        <text x="440" y="337" fill="#565f89" font-size="12" font-family="Segoe UI, sans-serif" text-anchor="end">14.6%</text>
+        <rect x="30" y="345" width="410" height="6" rx="3" fill="#292a3a"/>
+        <rect x="30" y="345" width="43" height="6" rx="3" fill="#f1e05a"/>
+        
+        <text x="30" y="371" fill="#c0caf5" font-size="12" font-family="Segoe UI, sans-serif">Python</text>
+        <text x="440" y="371" fill="#565f89" font-size="12" font-family="Segoe UI, sans-serif" text-anchor="end">4.2%</text>
+        <rect x="30" y="379" width="410" height="6" rx="3" fill="#292a3a"/>
+        <rect x="30" y="379" width="12" height="6" rx="3" fill="#3572A5"/>
+        
+</svg>

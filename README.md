@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshath Senthilkumar</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Data & AI Enthusiast</h3>
+<h3 align="center">Computer Science Student | Data & AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshathsenthilkumar/" target="_blank">
